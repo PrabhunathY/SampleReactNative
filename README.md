@@ -4,9 +4,9 @@ React Native sample application with login, register, navigation, UI design, RES
 Features:
 - React Native exmaple
 - UI Design
-Login screen
-Register screen
-Bottom Tabbar
-Navigation
-REST request
-Redux Store handling
+- Login screen
+- Register screen
+- Bottom Tabbar
+- Navigation
+- REST request
+- Redux Store handling
